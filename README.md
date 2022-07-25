@@ -15,11 +15,11 @@ This is a simple responsive TicTacToe game using Flutter, Node.js, Express, Sock
 ```bash
 npm install && npm start
 ```
-4.install app in emulator and Run for client1
+4. install app in emulator and Run for client1
 
-5.run the borwser for client2
+5. run the borwser for client2
 
-#ScreenShots
+# Screenshots
 
 <div>
   <img src="/client/screenshots/mobile_1.jpg" width="200" />
