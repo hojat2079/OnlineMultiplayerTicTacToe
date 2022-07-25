@@ -26,6 +26,7 @@ npm install && npm start
   <img src="/client/screenshots/mobile_2.jpg" width="200"/>
   <img src="/client/screenshots/mobile_3.jpg" width="200"/>
   <img src="/client/screenshots/mobile_4.jpg" width="200"/>
-  <img src="/client/screenshots/web1.jpg" width="600"/>
+  <img src="/client/screenshots/web_1.jpg" width="600"/>
+    <img src="https://user-images.githubusercontent.com/57577286/180671917-9a8ba0ea-d60e-4117-98ce-6fad28a9d18b.gif" width="600"/>
 
  </div>
